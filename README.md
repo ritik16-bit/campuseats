@@ -1,2 +1,2 @@
- CampusEats Project
+ CampusEats Project:
  This repository contains assignments for CS 543 Web Services.
