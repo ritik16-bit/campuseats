@@ -43,8 +43,8 @@ alt-svc: h3=":443"; ma=86400
 ## Request 2: Fetching a User (Valid Request)
 **Command:**
 curl -i https://jsonplaceholder.typicode.com/users/1
-**Response:**
 
+**Response:**
 HTTP/1.1 200 OK
 Date: Fri, 14 Aug 2026 01:27:38 GMT
 Content-Type: application/json; charset=utf-8
